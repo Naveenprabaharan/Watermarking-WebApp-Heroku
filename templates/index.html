@@ -61,9 +61,9 @@
     {% if pred %}
     <h3>Respective Image Uploaded </h3>
 <!--    <img src={{pred}} alt="simply" width="500" height="400">-->
-    <img src={{pred}} alt="img" >
+    <img src="data:image/jpeg;base64,{{pred}}" alt="img" >
     <br>
-    <a href={{pred}} download>download</a>
+    <a href="data:image/jpeg;base64,{{pred}}" download>download</a>
 
     {% endif %}
 
