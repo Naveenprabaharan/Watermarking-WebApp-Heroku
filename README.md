@@ -6,7 +6,7 @@
 
 
 ## Watermarking WebApp
-The purpose of this project is to detect Adding a watermark to an image works ascopyright. 
+The purpose of this project is to detect Adding a watermark to an image works as copyright. 
 Different organizations can use it to make their content secure so that their content
 cannot be misused without their license or a paid version. In this project, we saw how easily we can
 use OpenCV to add watermarks to our images.
